@@ -9,7 +9,10 @@
 ![](https://streak-stats.demolab.com/?user=Waaizy9&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Waaizy9&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Waaizy9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
-[![](https://komarev.com/ghpvc/?username=Waaizy9&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Waaizy9&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
